@@ -61,4 +61,4 @@ Feel free to contribute to this project. Follow these steps:
 
 ## License
 
-This project is licensed under the MIT License - see the ([LICENSE](https://github.com/adexzy1/number-format-helper/blob/main/LICENSE)) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/adexzy1/number-format-helper/blob/main/LICENSE) file for details.
