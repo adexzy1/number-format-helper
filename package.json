@@ -1,12 +1,12 @@
 {
   "name": "number-format-helper",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "A utility package to format large numbers in a human-readable way.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "repository": {
-    "url": "https://github.com/adexzy1/simple-number-formatter"
+    "url": "https://github.com/adexzy1/number-format-helper"
   },
   "scripts": {
     "build": "tsup"
