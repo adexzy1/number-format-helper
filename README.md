@@ -1,6 +1,6 @@
 # Number-format-helper
 
-[![npm version](https://badge.fury.io/js/human-readable-number.svg)](https://www.npmjs.com/package/number-format-helper)
+[![npm version](https://badge.fury.io/js/number-format-helper.svg)](https://www.npmjs.com/package/number-format-helper)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A utility function to format large numbers in a human-readable way.
@@ -16,7 +16,7 @@ npm install number-format-helper
 ## Usage
 
 ```bash
-import { formatNumber } from 'human-readable-number';
+import { formatNumber } from 'number-format-helper';
 
 // Examples
 const formattedValue1 = formatNumber(1234567890);
