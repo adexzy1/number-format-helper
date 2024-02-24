@@ -1,7 +1,7 @@
 {
   "name": "number-format-helper",
   "version": "0.0.1",
-  "description": "This lightweight utility simplifies the process of displaying numbers in a user-friendly format, adding commas for thousands and utilizing abbreviations like M (millions), and B (billions), T (Trillions) for larger values",
+  "description": "A utility function to format large numbers in a human-readable way.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",

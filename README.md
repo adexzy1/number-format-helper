@@ -58,3 +58,7 @@ Feel free to contribute to this project. Follow these steps:
 3. Commit your changes: git commit -m 'Add new feature'
 4. Push to the branch: git push origin feature/new-feature
 5. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the ([LICENSE](https://github.com/adexzy1/number-format-helper/blob/main/LICENSE)) file for details.
