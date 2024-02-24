@@ -46,3 +46,15 @@ Formats the given number in a human-readable way.
 
 - `num` (required): The number to be formatted.
 - `precision` (optional): The number of decimal places to round to (default is 2).
+
+Returns the formatted string.
+
+## Contributing
+
+Feel free to contribute to this project. Follow these steps:
+
+1. Fork the repository.
+2. Create your feature branch: git checkout -b feature/new-feature
+3. Commit your changes: git commit -m 'Add new feature'
+4. Push to the branch: git push origin feature/new-feature
+5. Open a pull request.
