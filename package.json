@@ -1,7 +1,7 @@
 {
   "name": "number-format-helper",
   "version": "0.0.1",
-  "description": "A utility function to format large numbers in a human-readable way.",
+  "description": "A utility package to format large numbers in a human-readable way.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
