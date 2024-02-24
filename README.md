@@ -35,3 +35,14 @@ const formattedValue5 = formatNumber(999);
 console.log(formattedValue5);  // Output: 999 (no formatting applied)
 
 ```
+
+## API
+
+```bash
+formatNumber(num: number, precision?: number): string
+```
+
+Formats the given number in a human-readable way.
+
+- `num` (required): The number to be formatted.
+- `precision` (optional): The number of decimal places to round to (default is 2).
