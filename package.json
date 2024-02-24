@@ -1,0 +1,29 @@
+{
+  "name": "simple-number-formatter",
+  "version": "0.0.1",
+  "description": "This lightweight utility simplifies the process of displaying numbers in a user-friendly format, adding commas for thousands and utilizing abbreviations like M (millions), and B (billions), T (Trillions) for larger values",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "number-format-helper",
+    "numeric-formatter-js",
+    "number-beautifier",
+    "format-number-plus",
+    "numerical-style",
+    "num-formatting-tool",
+    "easy-number-format",
+    "numeral-styler",
+    "thousand-millions-billions",
+    "number-friendly-formatter"
+  ],
+  "author": "John Adekoya",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  }
+}
