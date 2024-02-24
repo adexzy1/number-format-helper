@@ -4,4 +4,4 @@
 .DS_store
 
 tsconfig.json
-tsup.config.json
+tsup.config.json 

@@ -1,10 +1,13 @@
 {
-  "name": "simple-number-formatter",
+  "name": "number-format-helper",
   "version": "0.0.1",
   "description": "This lightweight utility simplifies the process of displaying numbers in a user-friendly format, adding commas for thousands and utilizing abbreviations like M (millions), and B (billions), T (Trillions) for larger values",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
+  "repository": {
+    "url": "https://github.com/adexzy1/simple-number-formatter"
+  },
   "scripts": {
     "build": "tsup"
   },

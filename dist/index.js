@@ -20,9 +20,11 @@ var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: tru
 // src/index.ts
 var src_exports = {};
 __export(src_exports, {
-  default: () => formatNumber
+  formatNumber: () => formatNumber
 });
 module.exports = __toCommonJS(src_exports);
+
+// src/function.ts
 function formatNumber(num, precision = 2) {
   const map = [
     { suffix: "T", threshold: 1e12 },
@@ -39,3 +41,7 @@ function formatNumber(num, precision = 2) {
   }
   return num;
 }
+// Annotate the CommonJS export names for ESM import in node:
+0 && (module.exports = {
+  formatNumber
+});
